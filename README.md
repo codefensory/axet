@@ -7,14 +7,14 @@ Proxy inteligente para APIs de AI con autenticación y tracking de uso. Soporta 
 ### Linux / Mac
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/codefensory/axet/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/codefensory/axet/master/install.sh | bash
 ```
 
 ### Windows
 
 Requiere Git Bash o WSL:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/codefensory/axet/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/codefensory/axet/master/install.sh | bash
 ```
 
 ## Requisitos
@@ -68,7 +68,7 @@ axet update
 
 Para reinstalar desde cero:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/codefensory/axet/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/codefensory/axet/master/install.sh | bash
 ```
 
 ## Estructura del Proyecto
