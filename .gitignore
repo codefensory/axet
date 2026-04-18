@@ -1,0 +1,5 @@
+# Este repositorio solo contiene archivos de distribución
+# El código fuente está en: https://github.com/codefensory/axet-private
+releases/
+.DS_Store
+*.log
